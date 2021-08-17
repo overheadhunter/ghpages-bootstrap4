@@ -1,3 +1,5 @@
+:warning: This repository is no longer maintained
+
 # Custom Bootstrap 4 site on GitHub Pages
 
 This is a template for GitHub Pages based on Bootstrap 4. All Sass files are included and can be customized. Sass will be processed by GitHub Pages. Javascript needed by Bootstrap will be loaded from external CDNs and can not be modified.
